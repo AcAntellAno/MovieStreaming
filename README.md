@@ -1,1 +1,1 @@
-# Movie Streaming platform targeted towards Sundance Films ::movie_camera:
+# Movie Streaming platform targeted towards Sundance Films :movie_camera:
